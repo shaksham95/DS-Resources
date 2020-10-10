@@ -2,6 +2,7 @@
 A curated list of awesome data science resources including but not limited to libraries, newletters, summer schools, lectures, research papers etc. Inspired by Awesome Machine Learning :grinning:
 
 If you want to contribute to this list (please do), send me a pull request. :grin:
+If you find that any link is broken or any other difficulties, then please do raise an issue.
 
 ## Table of Contents
 
@@ -229,3 +230,7 @@ If you want to contribute to this list (please do), send me a pull request. :gri
   - Natural Language Processing
     - [DL for NLP - 2021](http://ixa2.si.ehu.es/deep_learning_seminar/)
     - [RANLP'19 - DL in NLP](https://dlinnlp.github.io/)
+
+## Todo
+
+- [ ] Add (free) books for DS, ML, DL and NLP
