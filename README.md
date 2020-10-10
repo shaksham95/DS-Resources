@@ -111,12 +111,37 @@ If you want to contribute to this list (please do), send me a pull request. :gri
     - [Guide to saving, hosting your first ML model](https://heartbeat.fritz.ai/guide-to-saving-hosting-your-first-machine-learning-model-cdf69729e85d)
     - [Get pro in pytorch-for-nlp](https://medium.com/modern-nlp/get-pro-in-pytorch-for-nlp-60352b51fa1e)
     - [12 steps to applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
+    - [Over 150 of the best ML, NLP and Python tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn)
   
   - Blogs
-    - [Web scraping with scrapy/](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
+    - [Web scraping with scrapy](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
     - [Indexing billions of text vectors](https://0x65.dev/blog/2019-12-07/indexing-billions-of-text-vectors.html)
-    - [PCA better explained/](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
+    - [PCA better explained](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
     - [Fullstack nlp: building and deploying end-to-end fake-news-classifier](https://hatem-hassan.com/blog/fullstack-nlp-building-and-deploying-end-to-end-fake-news-classifier/)
     - [ML beyond Curve Fitting](https://www.inference.vc/untitled/)
     - [End to end ML](https://www.ahmedbesbes.com/blog/end-to-end-machine-learning)
     - [All the ways to compress-BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html)
+    - [The Decade of DL](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
+    - [Deploy ML Models with Django](https://www.deploymachinelearning.com/)
+
+- Courses / Lecture Series :computer:
+
+  - Machine Learning
+    - [Undergraduate ML - UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
+    - [CORNELL CS4780 - ML for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+    - [Applied ML - 2019](https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA)
+    - [Unsupervised Learning](https://www.youtube.com/playlist?list=PLFInMJnvb3owAddRh4qk2gCX25kGLDay-)
+    
+  - Deep Learning
+    - [FullStack DL Bootcamp](https://www.youtube.com/playlist?list=PLILZm3MRkvH-BY6H25TKwRYeORAzNRnpN)
+    - [Neural Network Programming - DL with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+    - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+    
+  - Natural Language Processing
+    - [CMU NLP - 2019](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
+    
+  - Reinforcement Learning
+    - [Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+    
+  - Artifical Intelligence
+    - [Stanford CS221: AI: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
