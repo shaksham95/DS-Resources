@@ -156,6 +156,33 @@ If you want to contribute to this list (please do), send me a pull request. :gri
   - Artifical Intelligence
     - [Stanford CS221: AI: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 
+- **Introductory Courses** :beginner:
+
+  - Coursera
+    - [ML from Stanford University](https://www.coursera.org/learn/machine-learning)
+    - [ML with Python - IBM](https://www.coursera.org/learn/machine-learning-with-python)
+    - [ML Specialization - University of Washington](https://www.coursera.org/specializations/machine-learning)
+    - [DS Machine Learning - Harvard University](https://www.edx.org/course/data-science-machine-learning)
+    - [DL Speicalization - Stanford University](https://www.coursera.org/specializations/deep-learning)
+    - [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-6lrVHlPZxG66qxtBa4f5Sg&siteID=bt30QTxEyjA-6lrVHlPZxG66qxtBa4f5Sg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA)
+    - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-dzsS5MOPF.oZkcqY.Z6P0g&siteID=vedj0cWlu2Y-dzsS5MOPF.oZkcqY.Z6P0g&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y)
+    
+  - edX
+    - [ML for DS and Analytics - Columbia University](https://www.edx.org/course/machine-learning-for-data-science-and-analytics)
+    
+  - Udemy
+    - [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
+    - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+    
+  - DataCamp
+    - [Machine Learning for Everyone](https://www.datacamp.com/courses/introduction-to-machine-learning-with-r)
+    
+  - Udacity
+    - [Intro to ML Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
+    
+  - [fastAI](https://www.fast.ai/)
+  
+    
 - **Newsletter** :newspaper:
     
     - General
@@ -185,7 +212,7 @@ If you want to contribute to this list (please do), send me a pull request. :gri
       - [Dair AI](https://dair.ai/newsletter/)
       - [Sebastian Ruder](http://newsletter.ruder.io/)
       
-- Summar Schools :school:
+- **Summar Schools** :school:
 
   - Machine Learning
      - [SMILES - 2020](https://smiles.skoltech.ru/school)
