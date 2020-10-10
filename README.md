@@ -2,7 +2,8 @@
 A curated list of awesome data science resources including but not limited to libraries, newletters, summer schools, lectures, research papers etc. Inspired by Awesome Machine Learning :grinning:
 
 If you want to contribute to this list (please do), send me a pull request. :grin:
-If you find that any link is broken or any other difficulties, then please do raise an issue.
+
+Please do raise an issue if any link is broken or if you have some suggesstions.
 
 ## Table of Contents
 
