@@ -55,50 +55,81 @@ Please do raise an issue if any link is broken or you have some suggestions.
 - **Awesome Github Repositories** :raised_hands:
 
   - Machine Learning
+    <details>
+    <summary>Study</summary>
+  
     - [Homemade Machine Learning ](https://github.com/trekhleb/homemade-machine-learning)
     - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
     - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
     - [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
     - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+    </details>
+    <details>
+    <summary>Library</summary>
+  
     - [Voilà](https://github.com/voila-dashboards/voila)
     - [TPOT](https://github.com/EpistasisLab/tpot)
+    </details>
     
   - Deep Learning
+    <details>
+    <summary>Study</summary>
+  
     - [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
-    - [Plot Neural Net](https://github.com/HarisIqbal88/PlotNeuralNet)
     - [Hacking Neural Networks](https://github.com/Kayzaks/HackingNeuralNetworks)
     - [deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap)
     - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
+    </details>
+    <details>
+    <summary>Library</summary>
+  
+    - [Plot Neural Net](https://github.com/HarisIqbal88/PlotNeuralNet)
     - [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
     - [GAN Lab](https://github.com/poloclub/ganlab)
     - [Captum](https://github.com/pytorch/captum)
     - [PySyft](https://github.com/OpenMined/PySyft)
     - [Thinc](https://github.com/explosion/thinc)
+    </details>
 
   - Natural Language Processing
-    - [HanLP](https://github.com/hankcs/HanLP)
+    <details>
+    <summary>Study</summary>
+  
     - [NLP-conference-compendium](https://github.com/soulbliss/NLP-conference-compendium)
-    - [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service)
-    - [inltk](https://github.com/goru001/inltk)
     - [nlp-recipes](https://github.com/microsoft/nlp-recipes)
-    - [pySBD](https://github.com/nipunsadvilkar/pySBD)
     - [NLP-progress](https://github.com/sebastianruder/NLP-progress)
     - [nlp-roadmap](https://github.com/graykode/nlp-roadmap)
     - [nlp_overview](https://github.com/omarsar/nlp_overview)
     - [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
     - [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
     - [awesome-nlp](https://github.com/keon/awesome-nlp)
+    </details>
+    <details>
+    <summary>Library</summary>
+  
+    - [HanLP](https://github.com/hankcs/HanLP)
+    - [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service)
+    - [inltk](https://github.com/goru001/inltk)
+    - [pySBD](https://github.com/nipunsadvilkar/pySBD)
     - [FARM](https://github.com/deepset-ai/FARM)
+    </details>
     
   - Data Science
+    <details>
+    <summary>Study</summary>
+  
     - [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+    - [Virgilio](https://github.com/virgili0/Virgilio)
+    </details>
+    <details>
+    <summary>Library</summary>
+  
     - [Dash](https://github.com/plotly/dash)
     - [Cleanlab](https://github.com/cgnorthcutt/cleanlab)
     - [Dovpanda](https://github.com/dovpanda-dev/dovpanda)
     - [Featuretools](https://github.com/FeatureLabs/featuretools)
     - [Swifter](https://github.com/jmcarpenter2/swifter)
     - [Streamlit](https://github.com/streamlit/streamlit)
-    - [Virgilio](https://github.com/virgili0/Virgilio)
     - [MLxtend](https://github.com/rasbt/mlxtend)
     - [Newspaper](https://github.com/codelucas/newspaper)
     - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
@@ -107,6 +138,7 @@ Please do raise an issue if any link is broken or you have some suggestions.
     - [Optuna](https://github.com/optuna/optuna)
     - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV)
     - [Dtale](https://github.com/man-group/dtale)
+    </details>
 
 - **Articles/Blogs** :page_with_curl:
 
@@ -283,7 +315,7 @@ Please do raise an issue if any link is broken or you have some suggestions.
     - [DL for NLP - 2021](http://ixa2.si.ehu.es/deep_learning_seminar/)
     - [RANLP'19 - DL in NLP](https://dlinnlp.github.io/)
     
- ## More Awesomemness
+ ## More Awesomeness
  
   - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
   - [awesome-python](https://github.com/vinta/awesome-python)
