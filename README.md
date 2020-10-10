@@ -1,5 +1,5 @@
 # DS-Resources
-A curated list of awesome data science including but not limited to libraries, newletters, summer schools, lectures etc. :grinning:
+A curated list of awesome data science resources including but not limited to libraries, newletters, summer schools, lectures, research papers etc. Inspired by Awesome Machine Learning :grinning:
 
 If you want to contribute to this list (please do), send me a pull request. :grin:
 
@@ -40,5 +40,28 @@ If you want to contribute to this list (please do), send me a pull request. :gri
 
 - Awesome Github Repositories :raised_hands:
 
-  - 
+  - Machine Learning
+    - [Homemade Machine Learning ](https://github.com/trekhleb/homemade-machine-learning)
+    - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+    - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
+    - [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
+    - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+    - [Voilà](https://github.com/voila-dashboards/voila)
+    - [TPOT](https://github.com/EpistasisLab/tpot)
+    
+  - Deep Learning
+    - [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
+    - [Plot Neural Net](https://github.com/HarisIqbal88/PlotNeuralNet)
+    - [Hacking Neural Networks](https://github.com/Kayzaks/HackingNeuralNetworks)
+    - [deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap)
+    - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
+    - [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
+    - [GAN Lab](https://github.com/poloclub/ganlab)
+    - [Captum](https://github.com/pytorch/captum)
+    - [PySyft](https://github.com/OpenMined/PySyft)
+    - [Thinc](https://github.com/explosion/thinc)
+    
+  -  Natural Language Processing
+    - [HanLP](https://github.com/hankcs/HanLP)
+    - [NLP-conference-compendium](https://github.com/soulbliss/NLP-conference-compendium)
 
