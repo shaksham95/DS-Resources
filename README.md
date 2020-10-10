@@ -5,7 +5,7 @@ If you want to contribute to this list (please do), send me a pull request. :gri
 
 ## Table of Contents
 
-- Research Papers :writing_hand:
+- **Research Papers** :writing_hand:
 
   - Machine Learning
     - [Machine Learning from a Continuous Viewpoint](https://arxiv.org/abs/1912.12777)
@@ -38,7 +38,7 @@ If you want to contribute to this list (please do), send me a pull request. :gri
     - [DeepLENS: Deep Learning for Entity Summarization](https://arxiv.org/abs/2003.03736)
     - [ArcText: A Unified Text Approach to Describing Convolutional Neural Network Architectures](https://arxiv.org/abs/2002.10233)
 
-- Awesome Github Repositories :raised_hands:
+- **Awesome Github Repositories** :raised_hands:
 
   - Machine Learning
     - [Homemade Machine Learning ](https://github.com/trekhleb/homemade-machine-learning)
@@ -94,7 +94,7 @@ If you want to contribute to this list (please do), send me a pull request. :gri
     - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV)
     - [Dtale](https://github.com/man-group/dtale)
 
-- Articles/Blogs :page_with_curl:
+- **Articles/Blogs** :page_with_curl:
 
   - Towards Data Science / Medium
     - [DL on graphs with Graph CNN](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
@@ -124,7 +124,7 @@ If you want to contribute to this list (please do), send me a pull request. :gri
     - [The Decade of DL](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
     - [Deploy ML Models with Django](https://www.deploymachinelearning.com/)
 
-- Courses / Lecture Series :computer:
+- **Courses / Lecture Series** :computer:
 
   - Machine Learning
     - [Undergraduate ML - UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
