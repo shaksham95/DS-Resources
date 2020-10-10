@@ -60,8 +60,36 @@ If you want to contribute to this list (please do), send me a pull request. :gri
     - [Captum](https://github.com/pytorch/captum)
     - [PySyft](https://github.com/OpenMined/PySyft)
     - [Thinc](https://github.com/explosion/thinc)
-    
-  -  Natural Language Processing
+
+  - Natural Language Processing
     - [HanLP](https://github.com/hankcs/HanLP)
     - [NLP-conference-compendium](https://github.com/soulbliss/NLP-conference-compendium)
-
+    - [embedding-as-service](https://github.com/amansrivastava17/embedding-as-service)
+    - [inltk](https://github.com/goru001/inltk)
+    - [nlp-recipes](https://github.com/microsoft/nlp-recipes)
+    - [pySBD](https://github.com/nipunsadvilkar/pySBD)
+    - [NLP-progress](https://github.com/sebastianruder/NLP-progress)
+    - [nlp-roadmap](https://github.com/graykode/nlp-roadmap)
+    - [nlp_overview](https://github.com/omarsar/nlp_overview)
+    - [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+    - [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
+    - [awesome-nlp](https://github.com/keon/awesome-nlp)
+    - [FARM](https://github.com/deepset-ai/FARM)
+    
+  - Data Science
+    - [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+    - [Dash](https://github.com/plotly/dash)
+    - [Cleanlab](https://github.com/cgnorthcutt/cleanlab)
+    - [Dovpanda](https://github.com/dovpanda-dev/dovpanda)
+    - [Featuretools](https://github.com/FeatureLabs/featuretools)
+    - [Swifter](https://github.com/jmcarpenter2/swifter)
+    - [Streamlit](https://github.com/streamlit/streamlit)
+    - [Virgilio](https://github.com/virgili0/Virgilio)
+    - [MLxtend](https://github.com/rasbt/mlxtend)
+    - [Newspaper](https://github.com/codelucas/newspaper)
+    - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
+    - [Twint](https://github.com/twintproject/twint)
+    - [Parsr](https://github.com/axa-group/Parsr)
+    - [Optuna](https://github.com/optuna/optuna)
+    - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV)
+    - [Dtale](https://github.com/man-group/dtale)
