@@ -10,13 +10,20 @@ Please do raise an issue if any link is broken or you have some suggestions.
 - **Research Papers** :writing_hand:
 
   - Machine Learning
+    <details>
+    <summary>2020</summary>
+  
     - [Machine Learning from a Continuous Viewpoint](https://arxiv.org/abs/1912.12777)
     - [Visualization of Very Large High-Dimensional Data Sets as Minimum Spanning Trees](https://arxiv.org/abs/1908.10410)
     - [Consistent Batch Normalization for Weighted Loss in Imbalanced-Data Environment](https://arxiv.org/abs/2001.01433)
     - [Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems](https://arxiv.org/abs/1903.12394)
     - [ViCE: Visual Counterfactual Explanations for Machine Learning Models](https://arxiv.org/abs/2003.02428)
+    </details>
    
   - Deep Learning
+    <details>
+    <summary>2020</summary>
+  
     - [A Gentle Introduction to Deep Learning for Graphs](https://arxiv.org/abs/1912.12693)
     - [AdderNet: Do We Really Need Multiplications in DL?](https://arxiv.org/abs/1912.13200)
     - [Lossless Compression of Deep NN](https://arxiv.org/abs/2001.00218)
@@ -27,8 +34,12 @@ Please do raise an issue if any link is broken or you have some suggestions.
     - [GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks](https://arxiv.org/abs/2001.06216)
     - [Approximating Activation Functions](https://arxiv.org/abs/2001.06370)
     - [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755)
+    </details>
    
   - Natural Language Processing
+    <details>
+    <summary>2020</summary>
+  
     - [Is Attention All What You Need?](https://arxiv.org/abs/1912.11959)
     - [Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962)
     - [On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
@@ -39,6 +50,7 @@ Please do raise an issue if any link is broken or you have some suggestions.
     - [autoNLP: NLP Feature Recommendations for Text Analytics Applications](https://arxiv.org/abs/2002.03056)
     - [DeepLENS: Deep Learning for Entity Summarization](https://arxiv.org/abs/2003.03736)
     - [ArcText: A Unified Text Approach to Describing Convolutional Neural Network Architectures](https://arxiv.org/abs/2002.10233)
+    </details>
 
 - **Awesome Github Repositories** :raised_hands:
 
@@ -183,7 +195,46 @@ Please do raise an issue if any link is broken or you have some suggestions.
     - [Intro to ML Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
     
   - [fastAI](https://www.fast.ai/)
+
+- **Books** :open_book:
   
+  - Statistics
+    <details>
+    <summary>Beginner</summary>
+    
+    - [Pratical Statistics for Data Scientists](https://math2510.coltongrainger.com/books/2017-bruce-and-bruce-pratical-statistics-for-data-scientists.pdf)
+    - [Head First Statistics](https://www.oreilly.com/library/view/head-first-statistics/9780596527587/)
+    - [Naked Statistics](https://www.amazon.in/Naked-Statistics-Stripping-Dread-Data/dp/039334777X)
+    </details>
+    
+  - Machine Learning
+    <details>
+    <summary>Beginner</summary>
+  
+    - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+    
+    </details>
+    <details>
+    <summary>Intermediate</summary>
+  
+    - [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+    - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    - [Understanding Machine Learning - From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+    
+    </details>
+    <details>
+    <summary>Advanced</summary>
+  
+    - [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
+    
+    </details>
+    
+  - Deep Learning
+    <details>
+    <summary>Advanced</summary>
+    
+    - [Deep Learning - Ian GoodFellow](https://www.deeplearningbook.org/)
+    </details>
     
 - **Newsletter** :newspaper:
     
