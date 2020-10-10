@@ -126,22 +126,62 @@ If you want to contribute to this list (please do), send me a pull request. :gri
 
 - **Courses / Lecture Series** :computer:
 
+  - Maths
+    - [Mathematics for DS](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL)
+    
   - Machine Learning
     - [Undergraduate ML - UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
     - [CORNELL CS4780 - ML for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
     - [Applied ML - 2019](https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA)
     - [Unsupervised Learning](https://www.youtube.com/playlist?list=PLFInMJnvb3owAddRh4qk2gCX25kGLDay-)
+    - [Machine Learning](https://www.youtube.com/playlist?list=PLImtCgowF_ET0mi-AmmqQ0SIJUpWYaIOr)
+    - [Statistical Machine Learning 2020](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+    - [Caltech CMS 165 2020 Lectures: Foundations of ML and Statistical Inference](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
     
   - Deep Learning
     - [FullStack DL Bootcamp](https://www.youtube.com/playlist?list=PLILZm3MRkvH-BY6H25TKwRYeORAzNRnpN)
     - [Neural Network Programming - DL with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
     - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+    - [DeepMind x UCL | DL Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+    - [ADL4CV - Advanced Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)
+    - [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
     
   - Natural Language Processing
     - [CMU NLP - 2019](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
+    - [NLP](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
     
   - Reinforcement Learning
     - [Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
     
   - Artifical Intelligence
     - [Stanford CS221: AI: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+
+- **Newsletter** :newspaper:
+    
+    - General
+      - [The algorithm - MIT Technology Review](https://forms.technologyreview.com/the-algorithm/)
+      - [ODSC](https://opendatascience.com/newsletter/?__hstc=19222759.c7703986ee3ed59c9e86ab23fc4a5c2b.1520381101110.1520381101110.1520381101110.1&__hssc=19222759.1.1520381101111&__hsfp=3346754045)
+      - [Data Elixir](https://dataelixir.com/)
+      - [AI weekly](http://aiweekly.co/)
+      - [Oreilly Newsletters](https://www.oreilly.com/emails/newsletters/)
+      - [AI trends](https://www.aitrends.com/subscribe/)
+      - [TopBots](https://www.topbots.com/enterprise-ai-news-pro-newsletter/)
+      - [DS Weekly](https://www.datascienceweekly.org/)
+      - [Deep Hunt](https://deephunt.in/)
+      - [Data is Plural](https://tinyletter.com/data-is-plural)
+      - [NYU's DS Community](https://cds.nyu.edu/newsletter/)
+      - [Talking Machines](http://www.thetalkingmachines.com)
+      - [Open AI](https://openai.com/blog)
+      
+    - Machine Learning
+      - [MachineLearnings](http://subscribe.machinelearnings.co/)
+      - [WildML](http://www.wildml.com/newsletter/)
+      
+    - Deep Learning
+      - [DL Weekly](https://www.deeplearningweekly.com/)
+      - [The Batch](https://www.deeplearning.ai/thebatch/)
+      
+    - Natural Language Processing
+      - [Dair AI](https://dair.ai/newsletter/)
+      - [Sebastian Ruder](http://newsletter.ruder.io/)
+      
