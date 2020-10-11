@@ -28,6 +28,8 @@ Please raise an issue in case of any discrepancies.
 - [**Newsletter**](https://github.com/shaksham95/DS-Resources/blob/main/Newsletters.md) :newspaper:
       
 - [**Summar Schools**](https://github.com/shaksham95/DS-Resources/blob/main/Schools.md) :school:
+
+- [**Competitions**](https://github.com/shaksham95/DS-Resources/blob/main/Competitions.md) :trophy:
     
  ## More Awesomeness
  
