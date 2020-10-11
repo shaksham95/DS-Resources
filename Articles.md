@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="260" height="300" src="https://usercontent2.hubstatic.com/10190147.gif">
+</p>
+
 # Table of Contents
   - [**Towards DS/Medium**](#towards-data-science)
   - [**Blogs**](#blogs)
@@ -31,3 +35,5 @@
   - [All the ways to compress-BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html)
   - [The Decade of DL](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
   - [Deploy ML Models with Django](https://www.deploymachinelearning.com/)
+
+#### [Image Credits](https://hubpages.com/literature/newspaper-article)
