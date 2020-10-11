@@ -1,4 +1,10 @@
-- Towards Data Science / Medium
+# Table of Contents
+    - [Towards DS/Medium](#towards-data-science-medium]
+    - [Blogs](#blogs)
+   
+## Articles
+
+### Towards Data Science / Medium
     - [DL on graphs with Graph CNN](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
     - [Emotion recognition using Graph CNN](https://towardsdatascience.com/emotion-recognition-using-graph-convolutional-networks-9f22f04b244e)
     - [Interpretable ML](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
@@ -15,7 +21,7 @@
     - [12 steps to applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
     - [Over 150 of the best ML, NLP and Python tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn)
     
-- Blogs
+### Blogs
     - [Web scraping with scrapy](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
     - [Indexing billions of text vectors](https://0x65.dev/blog/2019-12-07/indexing-billions-of-text-vectors.html)
     - [PCA better explained](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
