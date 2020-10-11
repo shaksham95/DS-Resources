@@ -19,6 +19,16 @@ Please do raise an issue if any link is broken or you have some suggestions.
     - [Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems](https://arxiv.org/abs/1903.12394)
     - [ViCE: Visual Counterfactual Explanations for Machine Learning Models](https://arxiv.org/abs/2003.02428)
     </details>
+    <details>
+    <summary>Original Papers</summary>
+    
+    - [Linear Regression](https://amstat.tandfonline.com/doi/full/10.1080/10691898.2001.11910537)
+    - [Logistic Regression](https://papers.tinbergen.nl/02119.pdf)
+    - [Decision Trees](https://hunch.net/~coms-4771/quinlan.pdf)
+    - [Random Forest](https://link.springer.com/article/10.1023/A:1010933404324)
+    - [Support Vector Machines](http://image.diku.dk/imagecanon/material/cortes_vapnik95.pdf)
+    - [XGBoost](https://arxiv.org/abs/1603.02754)
+    </details>
    
   - Deep Learning
     <details>
