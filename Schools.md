@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="760" height="350" src="https://edsurge.imgix.net/uploads/post/image/12261/shutterstock_715284859-1559085215.jpg?auto=compress%2Cformat&w=2000&h=810&fit=crop">
+</p>
+
 # Table of Contents
    - [**Machine Learning**](#machine-learning)
    - [**Deep Learning**](#deep-learning)
@@ -20,3 +24,5 @@
 ### Natural Language Processing
    - [DL for NLP - 2021](http://ixa2.si.ehu.es/deep_learning_seminar/)
    - [RANLP'19 - DL in NLP](https://dlinnlp.github.io/)
+
+#### [Image Credits](https://www.edsurge.com/news/2019-05-28-despite-poor-performance-virtual-school-enrollment-continues-to-grow)
