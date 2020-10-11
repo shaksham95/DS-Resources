@@ -27,23 +27,7 @@ Please raise an issue if any link is broken or in case of discrepancies.
     
 - [**Newsletter**](https://github.com/shaksham95/DS-Resources/blob/main/Newsletters.md) :newspaper:
       
-- **Summar Schools** :school:
-
-  - Machine Learning
-     - [SMILES - 2020](https://smiles.skoltech.ru/school)
-     - [Lisbon ML - 2020](http://lxmls.it.pt/2020/)
-     - [MLSS](http://mlss.cc/)
-     - [AI 2020 - Google Research](https://sites.google.com/view/aisummerschool2020/)
-     - [Eastern European ML School - 2020](https://www.eeml.eu/)
-     - [Virtual DS Africa - 2020](http://www.datascienceafrica.org/dsa2020kampala/)
-  
-  - Deep Learning
-    - [Computer Vision and ML - IIIT Hyderabad (2020)](http://cvit.iiit.ac.in/summerschoolseries/)
-    - [DL Indaba](https://deeplearningindaba.com/2020/)
-    
-  - Natural Language Processing
-    - [DL for NLP - 2021](http://ixa2.si.ehu.es/deep_learning_seminar/)
-    - [RANLP'19 - DL in NLP](https://dlinnlp.github.io/)
+- [**Summar Schools**](https://github.com/shaksham95/DS-Resources/blob/main/Schools.md) :school:
     
  ## More Awesomeness
  
@@ -61,3 +45,5 @@ Please raise an issue if any link is broken or in case of discrepancies.
   - [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
   - [awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models)
   - [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+
+##### [Image Credits](https://www.linkedin.com/pulse/9-best-free-online-data-science-courses-2020-bernard-marr/)
