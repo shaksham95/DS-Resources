@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="560" height="300" src="https://miro.medium.com/max/1250/1*glcAUlEIOuLP3csA1EmeMg.jpeg">
+</p>
+
 # Table of Contents
   - [**Statistics**](#statistics)
   - [**Machine Learning**](#machine-learning)
@@ -39,3 +43,5 @@
     
    - [Deep Learning - Ian GoodFellow](https://www.deeplearningbook.org/)
    </details>
+
+#### [Image Credits](https://medium.com/behavioral-signals-ai/must-read-machine-learning-books-for-2020-so-far-3322d7b7645f)
