@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="760" height="350" src="https://www.elsevier.com/__data/assets/image/0015/192102/research-data-image.jpg">
+</p>
+
 # Table of Contents
   - [**Machine Learning**](#machine-learning)
   - [**Deep Learning**](#deep-learning)
@@ -95,3 +99,5 @@
    - [LSTM](https://www.bioinf.jku.at/publications/older/2604.pdf)
     - LSTM's were introduced by Hochreiter & Schmidhuber to solve vanishing gradient problem in recurrent neural networks.
    </details>
+
+#### [Image Credits](https://www.elsevier.com/connect/managing-your-research-data-to-make-it-reusable)
