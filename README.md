@@ -46,4 +46,4 @@ Please raise an issue in case of any discrepancies.
   - [awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models)
   - [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 
-##### [Image Credits](https://www.linkedin.com/pulse/9-best-free-online-data-science-courses-2020-bernard-marr/)
+#### [Image Credits](https://www.linkedin.com/pulse/9-best-free-online-data-science-courses-2020-bernard-marr/)
