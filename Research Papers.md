@@ -1,7 +1,7 @@
 # Table of Contents
   - [**Machine Learning**](#machine-learning)
   - [**Deep Learning**](#deep-learning)
-  - [**NL[**](#natural-language-processing)
+  - [**NLP**](#natural-language-processing)
   
 ## Research Papers
 
