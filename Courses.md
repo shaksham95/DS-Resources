@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="760" height="400" src="https://cdn.elearningindustry.com/wp-content/uploads/2016/06/4-simple-steps-to-launch-your-elearning-youtube-channel.jpg">
+</p>
+
 # Table of Contents
   - [**Maths**](#maths)
   - [**Machine Learning**](#machine-learning)
@@ -37,3 +41,5 @@
     
 ### Artifical Intelligence
    - [Stanford CS221: AI: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+
+#### [Image Credits](https://elearningindustry.com/4-simple-steps-to-launch-your-elearning-youtube-channel)
