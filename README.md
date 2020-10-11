@@ -6,7 +6,7 @@ A curated list of awesome data science resources including but not limited to li
 
 If you want to contribute to this list (please do), send me a pull request. :grin:
 
-Please do raise an issue if any link is broken or you have some suggestions.
+Please raise an issue if any link is broken or in case of discrepancies.
 
 ## Table of Contents
 
