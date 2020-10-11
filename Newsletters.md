@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="360" height="350" src="https://www.healthwatchnewcastle.org.uk/wp-content/uploads/2016/11/newsletter-300x276.jpg">
+</p>
+
 # Table of Contents
   - [**General**](#general)
   - [**Machine Learning**](#machine-learning)
@@ -33,3 +37,5 @@
 ### Natural Language Processing
   - [Dair AI](https://dair.ai/newsletter/)
   - [Sebastian Ruder](http://newsletter.ruder.io/)
+
+#### [Image Credits](https://www.healthwatchnewcastle.org.uk/news/our-february-newsletter-is-out-now/)
