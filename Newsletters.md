@@ -7,7 +7,7 @@
 
 ## Newsletters
 
-### [General](#general)
+### General
   - [The algorithm - MIT Technology Review](https://forms.technologyreview.com/the-algorithm/)
   - [ODSC](https://opendatascience.com/newsletter/?__hstc=19222759.c7703986ee3ed59c9e86ab23fc4a5c2b.1520381101110.1520381101110.1520381101110.1&__hssc=19222759.1.1520381101111&__hsfp=3346754045)
   - [Data Elixir](https://dataelixir.com/)
@@ -22,14 +22,14 @@
   - [Talking Machines](http://www.thetalkingmachines.com)
   - [Open AI](https://openai.com/blog)
       
-### [Machine Learning](#machine-learning)
+### Machine Learning
   - [MachineLearnings](http://subscribe.machinelearnings.co/)
   - [WildML](http://www.wildml.com/newsletter/)
       
-### [Deep Learning](#deep-learning)
+### Deep Learning
   - [DL Weekly](https://www.deeplearningweekly.com/)
   - [The Batch](https://www.deeplearning.ai/thebatch/)
       
-### [Natural Language Processing](#natural-language-processing)
+### Natural Language Processing
   - [Dair AI](https://dair.ai/newsletter/)
   - [Sebastian Ruder](http://newsletter.ruder.io/)
