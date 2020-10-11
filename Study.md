@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="560" height="450" src="https://i.pinimg.com/736x/20/91/61/209161d1fbda3b6d798bc2419a1b6177.jpg">
+</p>
+
 # Table of  Contents
   - [**Data Science**](#data-science)
   - [**Machine Learning**](#machine-learning)
@@ -32,3 +36,5 @@
    - [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
    - [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
    - [awesome-nlp](https://github.com/keon/awesome-nlp)
+
+#### [Image Credits](https://libguides.mhs.vic.edu.au/c.php?g=174546)
