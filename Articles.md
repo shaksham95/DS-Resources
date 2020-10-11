@@ -1,6 +1,6 @@
 # Table of Contents
-  - [Towards DS/Medium](#towards-data-science)
-  - [Blogs](#blogs)
+  - [**Towards DS/Medium**](#towards-data-science)
+  - [**Blogs**](#blogs)
    
 ## Articles
 
