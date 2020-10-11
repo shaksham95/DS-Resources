@@ -10,7 +10,7 @@ Please raise an issue if any link is broken or in case of discrepancies.
 
 ## Table of Contents
 
-- [**Research Papers**](Research Papers.md) :writing_hand:
+- [**Research Papers**](https://github.com/shaksham95/DS-Resources/blob/main/Research%20Papers.md) :writing_hand:
 
 - **Awesome Github Repositories** :raised_hands:
 
