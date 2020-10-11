@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://www.disabled-world.com/pics/1/prizes.png">
+</p>
+
 # Table of Contents
   - [**Kaggle**](#kaggle)
   - [**ML Contests**](#ml-contests)
@@ -71,3 +75,5 @@
   
   - [NeurIPS-2020: Procgen-competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition)
   </details>
+
+#### [Image Credits](https://www.disabled-world.com/entertainment/competitions/)
