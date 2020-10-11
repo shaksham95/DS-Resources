@@ -5,12 +5,14 @@
 # Table of Contents
   - [**Kaggle**](#kaggle)
   - [**ML Contests**](#ml-contests)
+  - [**Driven Data**](#driven-data)
+  - [**Miscellaneous**](#miscellaneous)
   
 ## Competitions
 
 ### [Kaggle](https://www.kaggle.com/)
 
-  - Participating in a Kaggle competition for the first time? Dont worry, [here](https://elitedatascience.com/beginner-kaggle) is a wonderful guide that will bring you up to speed.
+Participating in a Kaggle competition for the first time? Dont worry, [here](https://elitedatascience.com/beginner-kaggle) is a wonderful guide that will bring you up to speed.
   
   <details>
   <summary>Beginner</summary>
@@ -76,4 +78,34 @@
   - [NeurIPS-2020: Procgen-competition](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition)
   </details>
 
+### [Driven Data](https://www.drivendata.org/competitions/)
+  <details>
+  <summary>Beginner</summary>
+  
+  - [Flu Shot Learning](https://www.drivendata.org/competitions/66/flu-shot-learning/)
+  </details>
+  <details>
+  <summary>Intermediate</summary>
+  
+  - [DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+  - [Pump It Up](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
+  - [Box-plots for Education Reboot/](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/)
+  - [United Nations: Millennium Development Goals](https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/)
+  - [Modeling Earthquake Damage](https://www.drivendata.org/competitions/57/nepal-earthquake/)
+  </details>
+  <details>
+  <summary>Advanced</summary>
+  
+  - [Election Competition-2020](https://www.drivendata.org/competitions/71/election-competition-2020/)
+  - [Genetic Engineering Attribution](https://www.drivendata.org/competitions/63/genetic-engineering-attribution/)
+  </details>
+
+### Miscellaneous
+
+  - [CodeLab](https://competitions.codalab.org/competitions/)
+  - [Machine Hack](https://www.machinehack.com/home)
+  - [Tianchi Big Data Competition](https://tianchi.aliyun.com/competition/gameList/activeList)
+  - [IDAO](https://idao.world/)
+  - [Datahack - Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/#active)
+  
 #### [Image Credits](https://www.disabled-world.com/entertainment/competitions/)
