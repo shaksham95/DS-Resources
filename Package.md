@@ -1,3 +1,22 @@
+- Data Science
+    <summary>Library</summary>
+  
+    - [Dash](https://github.com/plotly/dash)
+    - [Cleanlab](https://github.com/cgnorthcutt/cleanlab)
+    - [Dovpanda](https://github.com/dovpanda-dev/dovpanda)
+    - [Featuretools](https://github.com/FeatureLabs/featuretools)
+    - [Swifter](https://github.com/jmcarpenter2/swifter)
+    - [Streamlit](https://github.com/streamlit/streamlit)
+    - [MLxtend](https://github.com/rasbt/mlxtend)
+    - [Newspaper](https://github.com/codelucas/newspaper)
+    - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
+    - [Twint](https://github.com/twintproject/twint)
+    - [Parsr](https://github.com/axa-group/Parsr)
+    - [Optuna](https://github.com/optuna/optuna)
+    - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV)
+    - [Dtale](https://github.com/man-group/dtale)
+    </details>
+    
 - Machine Learning
     <details>
     <summary>Library</summary>
