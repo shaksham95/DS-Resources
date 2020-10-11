@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="760" height="450" src="https://miro.medium.com/max/875/1*RIrPOCyMFwFC-XULbja3rw.png">
+</p>
+
 # Table of Contents
   - [**Data Science**](#data-science)
   - [**Machine Learning**](#machine-learning)
@@ -40,3 +44,5 @@
    - [inltk](https://github.com/goru001/inltk)
    - [pySBD](https://github.com/nipunsadvilkar/pySBD)
    - [FARM](https://github.com/deepset-ai/FARM)
+
+#### [Image Credits](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c)
