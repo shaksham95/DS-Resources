@@ -1,4 +1,7 @@
 # DS-Resources
+
+![Data Science](https://media-exp1.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0?e=1608163200&v=beta&t=L96uBJeYutLEI1mZ4maablVmgJdXe-Y-2lVFvflXHek)
+
 A curated list of awesome data science resources including but not limited to libraries, newletters, summer schools, lectures, research papers etc. Inspired by Awesome Machine Learning :grinning:
 
 If you want to contribute to this list (please do), send me a pull request. :grin:
